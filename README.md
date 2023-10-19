@@ -1,8 +1,8 @@
 <h1>Hi! Nice to see you 😄</h1>
 
-Hello everyone. I'm Valentina Muñoz, a full stack developer's student from Chile 🇨🇱 I had working with websites, specially Prestashop, from many years ago, but I finally decided to study about it in a official way, so here I am.
+Hi everyone. I'm Valentina Muñoz, Full Stack Developer student from Chile 🇨🇱 I've been working on websites (specially Prestashop) for many years, but I finally decided to study this subject officially, so here I am.
 
-For now, I'm excited with all about Frontend. But in a few months I will know about Backend too. So, I can't yet decided what is my strong features, except that I like to learn about everything.
+For now, I'm excited about all Frontend, but in a few months I will also learn about Backend. So, I can't decide yet which are my strong features, except that I like to learn about everything.
 
 <h3>Currently</h3>
 <p>I'm learning about <img alt="Postgress" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /></p>
