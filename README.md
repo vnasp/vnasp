@@ -1,14 +1,15 @@
 <h1>Hola 😄</h1>
 
-<p>Mi nombre es Valentina y soy Full Stack Developer de Chile 🇨🇱 He trabajo en CMS, especialmente Prestashop, pero finalmente decidí abrirme a nueva tecnologías.</p>
+<p>Mi nombre es Valentina y soy Full Stack Developer de Chile 🇨🇱 He trabajo en CMS, especialmente Prestashop, pero finalmente decidí abrirme a nueva tecnologías. He validado y expandido mis conocimientos a través del bootcamp Full Stack Javascript Developer y especializado a través del bootcamp Frontend Developer. </p>
 
 <h2>En qué estoy</h2>
-<p>Estoy en un bootcamp de Frontend Developer para masterizar mis skills en esa área. Actualmente aprendo <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-404D59?style=for-the-badge" />, y en paralelo, de forma autodidacta aprendo NextJS 14.</p>
+<p>Terminando mi actual bootcamp de Frontend Developer donde aprendí más de Javascript Vanilla, Vue 2, Firebase y herramientas testing para frontend. Además, soy desarrolladora Frontend Semi-Senior en Acústica Marina.</p>
 
 <h2>Lenguages y Herramientas</h2>
 <div style="display:"flex";flex-direction:"row";gap:"4px"; >
 <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img alt="React Router" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />
+<img alt="VueJS" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />
 <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> 
 <img alt="Boostrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" /> 
 <img alt="TailwindCSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
