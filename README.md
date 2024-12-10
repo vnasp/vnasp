@@ -3,7 +3,7 @@
 <p>Mi nombre es Valentina y soy Full Stack Developer de Chile 🇨🇱 He trabajo en CMS, especialmente Prestashop, pero finalmente decidí abrirme a nueva tecnologías. He validado y expandido mis conocimientos a través del bootcamp Full Stack Javascript Developer y especializado a través del bootcamp Frontend Developer VueJS. </p>
 
 <h2>En qué estoy</h2>
-<p>Actualmente me encuentro estudiando Typescript para fortalecer mi skill de herramientas. Además, trabajo como desarrolladora Frontend Semi-Senior en Acústica Marina.</p>
+<p>Actualmente me encuentro estudiando por una parte, Swift para el desarrollo nativo en iOS, y por otra parte Typescript para fortalecer mi skill de herramientas. Además, trabajo como desarrolladora Frontend Semi-Senior en Acústica Marina.</p>
 
 <h2>Lenguages y Herramientas</h2>
 <div style="display:"flex";flex-direction:"row";gap:"4px"; >
