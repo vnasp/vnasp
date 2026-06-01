@@ -1,47 +1,31 @@
-<h1>Hola 😄</h1>
+# Hi, I'm Valentina
 
-<p>Soy Valentina, Frontend Engineer de Chile 🇨🇱</p>
+Frontend / Full Stack Engineer focused on building reliable products, scalable architectures and practical solutions to real-world problems.
 
-<p>
-Trabajo con React y TypeScript construyendo aplicaciones complejas, con foco en performance, arquitectura y experiencia de usuario. 
-Me interesa entender el producto completo, desde los requerimientos hasta la implementación y entrega.
-</p>
+My experience spans frontend development, backend services, data visualization, CI/CD automation, microfrontend architectures and cloud deployments. I enjoy designing systems end-to-end, from technical architecture and implementation to production operations.
 
-<p>
-En mi trabajo actual he mejorado significativamente el performance de la plataforma, reducido errores y liderado la transición hacia una arquitectura modular en React, 
-desarrollando nuevas funcionalidades y optimizando la plataforma.
-</p>
+Outside of work, I build personal projects involving mobile applications, IoT, automation, data analysis and optimization problems. Most of them start with a simple question: "Can this process be improved?"
 
-<h2>En qué estoy</h2>
-<ul>
-  <li>Profundizando en arquitectura frontend y performance</li>
-  <li>Explorando cloud, backend y reliability (SRE)</li>
-</ul>
+## Areas of Interest
 
-<h2>Lenguajes y herramientas</h2>
-<p>
-React · TypeScript · Tailwind · Zustand <br/>
-APIs · Data visualization · Figma <br/>
-Python · Django · PostgreSQL
-</p>
+* Frontend Architecture
+* Full Stack Development
+* Data Visualization
+* Reliability Engineering
+* Automation
+* IoT & Embedded Systems
+* Mobile Applications
+* Cloud Infrastructure
 
-<h2>Enfoque</h2>
-<p>
-Pragmática, orientada a resultados y a cumplir deadlines. 
-Me enfoco en construir soluciones claras, mantenibles y que aporten valor real.
-</p>
+## Selected Projects
 
-<h2>Dónde encontrarme</h2>
-<p>
-<a href="https://github.com/vnasp">
-  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://linkedin.com/in/vnasp">
-  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-</p>
+* IoT access control system using LoRa communication and Supabase synchronization.
+* Personal budget and inventory platform with supermarket price scraping and purchase optimization.
+* Mobile health-tracking application for senior pets built with React Native and Supabase.
+* Frontend platforms based on React microfrontend architectures.
 
-<h2>Portafolio</h2>
-<p>
-<a href="https://www.valentinamunoz.cl">www.valentinamunoz.cl</a>
-</p>
+## Technologies
+
+React • TypeScript • Next.js • Python • Django • PostgreSQL • React Native • AWS • Docker • GitLab CI/CD
+
+📍 Chile
